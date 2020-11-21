@@ -4,7 +4,7 @@
   const generateDocument = require('./lib/generate-document')
   const definition = require('./definitions/varsel')
   const data = require('./data/varsel.json')
-  const template = await readFile('templates/varsel.hbs', 'utf-8')
+  const template = await readFile('templates/varsel.md', 'utf-8')
   const document = generateDocument({
     definition,
     template,
