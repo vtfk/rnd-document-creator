@@ -1,8 +1,6 @@
 ---
-{
-  "definition": "letter",
-  "language": "nb_no"
-}
+definition: letter
+language: nb_no
 ---
 # Varselbrev for {{mottaker.fullName}}
 
