@@ -11,5 +11,5 @@
     data
   })
   const buffer = await pdfmake(document)
-  await writeFile('test.pdf', buffer)
+  await writeFile('example/test.pdf', buffer)
 })()
