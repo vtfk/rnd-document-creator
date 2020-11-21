@@ -1,0 +1,16 @@
+{
+  "name": "document-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm i"
+  },
+  "keywords": [],
+  "author": "Geir Gåsodden <geir.gasodden@pythonia.no> (https://github.com/zrrrzzt)",
+  "license": "MIT",
+  "dependencies": {
+    "@alheimsins/pdf-make": "1.0.9"
+  }
+}
