@@ -5,3 +5,5 @@ Du mottar dette varselbrevet fordi du er i fare for å ikke kunne få karakter i
 {{#each varsel.aarsaker}}
  - {{this}}
 {{/each}}
+
+Mer informasjon finner du på [vtfk.no](https://vtfk.no)
