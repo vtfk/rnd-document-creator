@@ -3,5 +3,14 @@
     "fullName": "Navn Navnesen",
     "adresse": "Adresseveien 1",
     "poststed": "3123 OSLO"
+  },
+  "varsel": {
+    "fag": "Norsk grunnfag",
+    "aarsaker": [
+      "Ikke tilstede",
+      "Fraværende",
+      "Bortreist",
+      "Dagdrømmer"
+    ]
   }
 }
