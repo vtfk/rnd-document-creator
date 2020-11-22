@@ -10,7 +10,7 @@ module.exports = data => {
       title: data.metadata.document.title,
       author: data.metadata.document.author,
       subject: data.metadata.document.subject,
-      keywords: data.metadata.document.keywords,
+      keywords: data.metadata.document.keywords
     },
     header,
     content: [
