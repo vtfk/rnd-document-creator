@@ -13,7 +13,7 @@ module.exports = data => {
       margin: [0, 15, 0, 10]
     },
     body: {
-      fontFamily: 'NunitoSans'
+      fontFamily: 'Nunito Sans'
     },
     bold: {
       bold: true
@@ -26,11 +26,11 @@ module.exports = data => {
       textColor: '#005260'
     },
     mottaker: {
-      fontFamily: 'NunitoSans',
+      fontFamily: 'Nunito Sans',
       fontSize: 11.5
     },
     referanser: {
-      fontFamily: 'NunitoSans',
+      fontFamily: 'Nunito Sans',
       fontSize: 10,
       alignment: 'right',
       padding: [0]
