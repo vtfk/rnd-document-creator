@@ -1,9 +1,10 @@
 (async () => {
-  const { readFile, writeFile } = require('fs').promises
+  const { writeFile } = require('fs').promises
   const pdfmake = require('@alheimsins/pdf-make')
+  const getTemplate = require('./lib/get-template')
   const generateDocument = require('./lib/generate-document')
   const data = require('./data/varsel.json')
-  const template = await readFile('templates/varsel.md', 'utf-8')
+  const template = await getTemplate('varsel', data.metadata.spraak)
   const document = generateDocument({
     template,
     data
