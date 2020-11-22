@@ -1,6 +1,6 @@
 ---
 definition: letter
-language: nb_no
+language: {{metadata.spraak}}
 ---
 # Varselbrev for {{mottaker.fullName}}
 
