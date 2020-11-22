@@ -12,6 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "@alheimsins/pdf-make": "1.0.9",
+    "@vtfk/document-definitions": "vtfk/document-definitions",
     "handlebars": "4.7.6",
     "html-to-pdfmake": "2.1.2",
     "jsdom": "16.4.0",

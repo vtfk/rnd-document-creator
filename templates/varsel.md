@@ -1,5 +1,5 @@
 ---
-definition: letter
+definition: brevmal
 language: {{metadata.spraak}}
 ---
 # Varselbrev for {{mottaker.fullName}}
