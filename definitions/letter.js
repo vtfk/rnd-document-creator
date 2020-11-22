@@ -1,11 +1,13 @@
 module.exports = data => {
   const style = {
     header: {
+      fontFamily: 'Nunito',
       fontSize: 16,
       bold: true,
       margin: [0, 30, 0, 10]
     },
     subHeader: {
+      fontFamily: 'Nunito',
       fontSize: 16,
       bold: true,
       margin: [0, 15, 0, 10]
@@ -24,9 +26,11 @@ module.exports = data => {
       textColor: '#005260'
     },
     mottaker: {
+      fontFamily: 'NunitoSans',
       fontSize: 11.5
     },
     referanser: {
+      fontFamily: 'NunitoSans',
       fontSize: 10,
       alignment: 'right',
       padding: [0]

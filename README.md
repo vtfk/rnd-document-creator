@@ -1,6 +1,8 @@
 # rnd-document-creator
 
-Research repo for document-creator
+Research repo for document-creator.
+
+Eksempel på pdf generert: [test.pdf](/example/test.pdf)
 
 ## Hva?
 

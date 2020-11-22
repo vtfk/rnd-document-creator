@@ -6,6 +6,8 @@ language: {{metadata.spraak}}
 
 Du mottar dette varselbrevet fordi du er i fare for å ikke kunne få karakter i **{{varsel.fag}}**
 
+## Årsaker til varselet
+
 {{#each varsel.aarsaker}}
  - {{this}}
 {{/each}}
