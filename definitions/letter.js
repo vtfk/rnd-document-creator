@@ -38,6 +38,9 @@ module.exports = data => {
   }
 
   const defintion = {
+    pageSize: 'A4',
+    pageOrientation: 'portrait',
+    pageMargins: [65, 120, 65, 0],
     info: {
       title: data.metadata.document.title,
       author: data.metadata.document.author,
@@ -124,8 +127,7 @@ module.exports = data => {
       'html-strong': style.bold,
       'html-italic': style.italic,
       'html-a': style.url
-    },
-    pageMargins: [65, 120, 65, 0]
+    }
   }
 
   return defintion
