@@ -11,7 +11,7 @@ module.exports = data => {
       margin: [0, 15, 0, 10]
     },
     body: {
-
+      fontFamily: 'NunitoSans'
     },
     bold: {
       bold: true
