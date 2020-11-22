@@ -1,6 +1,12 @@
 {
   "metadata": {
-    "spraak": "nb_no"
+    "spraak": "nb_no",
+    "document": {
+      "title": "Varsel om fag",
+      "author": "Lærer Lærersen",
+      "subject": "Varsel om mulig nedsatt karakter",
+      "keywords": "varselbrev, minelev"
+    }
   },
   "mottaker": {
     "fullName": "Navn Navnesen",
