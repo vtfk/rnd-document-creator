@@ -1,7 +1,14 @@
 ---
 definition: brevmal
-language: {{metadata.spraak}}
+language: nb
+address:
+  name: {{ mottaker.fullName }}
+  street: {{ mottaker.adresse }}
+  city: {{ mottaker.poststed }}
+info:
+  sector: Opplæring og folkehelse
 ---
+
 # Varselbrev for {{mottaker.fullName}}
 
 Du mottar dette varselbrevet fordi du er i fare for å ikke kunne få karakter i **{{varsel.fag}}**
