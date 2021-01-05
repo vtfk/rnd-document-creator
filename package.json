@@ -12,7 +12,7 @@
   "author": "Geir Gåsodden <geir.gasodden@pythonia.no> (https://github.com/zrrrzzt)",
   "license": "MIT",
   "dependencies": {
-    "@alheimsins/pdf-make": "1.0.9",
+    "@alheimsins/pdf-make": "1.0.10",
     "@vtfk/document-definitions": "vtfk/document-definitions",
     "handlebars": "4.7.6",
     "html-to-pdfmake": "2.1.2",
