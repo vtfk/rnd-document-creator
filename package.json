@@ -14,7 +14,7 @@
   "dependencies": {
     "@alheimsins/pdf-make": "1.0.9",
     "@vtfk/document-definitions": "vtfk/document-definitions",
-    "handlebars": "4.7.6",
+    "handlebars": "4.7.7",
     "html-to-pdfmake": "2.1.2",
     "jsdom": "16.4.0",
     "markdown-it": "12.0.2",
